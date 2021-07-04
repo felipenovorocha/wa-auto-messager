@@ -13,8 +13,8 @@ import pyautogui as pg
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get("https://web.whatsapp.com/")
-contatos =["Thamires Silva Saraiva Rocha"]
-mensagem = "bom dia"
+contatos =[""]
+mensagem = ""
 
 time.sleep(15)
 
